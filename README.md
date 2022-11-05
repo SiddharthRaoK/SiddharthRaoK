@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthRaoK
 - 👀 I’m interested in ...Gaming ,Coding, recent sound interest grew in me about tech!!!
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Nothing yet XD
+- 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me ... siddharth.rao.2003@gmail.com
 
 <!---
